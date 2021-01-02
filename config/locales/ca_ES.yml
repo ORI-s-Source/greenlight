@@ -213,7 +213,7 @@ ca_ES:
         valid: Valid
       title: Administrar usuaris
   add_to_google_calendar: "Afegir al Calendari de Google"
-  bigbluebutton: BigBlueButton
+  bigbluebutton: ORI-BBB
   bigbluebutton_exception: Os pedrer! Ha hagut un error a l'iniciar la sessió.
   cancel: Cancel·lar
   cookies:

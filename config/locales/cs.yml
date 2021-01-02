@@ -213,7 +213,7 @@ cs:
         valid: Platné
       title: Spravovat uživatele
   add_to_google_calendar: "Přidat do Google Calendar"
-  bigbluebutton: BigBlueButton
+  bigbluebutton: ORI-BBB
   bigbluebutton_exception: Při startu konference nastala chyba!
   cancel: Zrušit
   cookies:

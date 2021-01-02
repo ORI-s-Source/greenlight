@@ -218,7 +218,7 @@ nl:
         valid: Geldig
       title: Gebruikers beheren
   add_to_google_calendar: "Toevoegen aan Google Agenda"
-  bigbluebutton: BigBlueButton
+  bigbluebutton: ORI-BBB
   bigbluebutton_exception: "Oeps, er is een fout opgetreden bij het starten van de vergadering!"
   cancel: Annuleren
   cookies:

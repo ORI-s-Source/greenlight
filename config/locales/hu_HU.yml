@@ -210,7 +210,7 @@ hu_HU:
         username: Felhasználónév
       title: Felhasználókezelés
   add_to_google_calendar: "Google Naptár hozzáadása"
-  bigbluebutton: BigBlueButton
+  bigbluebutton: ORI-BBB
   bigbluebutton_exception: "Sajnáljuk, hiba történt a találkozó indításakor!"
   cancel: Mégsem
   cookies:

@@ -128,7 +128,7 @@ el:
         username:
       title:
   add_to_google_calendar:
-  bigbluebutton: BigBlueButton
+  bigbluebutton: ORI-BBB
   bigbluebutton_exception:
   cancel: Ακύρωση
   cookies:

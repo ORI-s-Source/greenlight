@@ -212,7 +212,7 @@ fr:
         valid: Valide
       title: Gérer les utilisateurs
   add_to_google_calendar: "Ajouter au calendrier Google"
-  bigbluebutton: BigBlueButton
+  bigbluebutton: ORI-BBB
   bigbluebutton_exception: "Oups, une erreur s'est produite lors du démarrage de la réunion !"
   cancel: Annuler
   cookies:

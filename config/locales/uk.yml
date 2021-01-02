@@ -192,7 +192,7 @@ uk:
         username: Ім'я користувача
       title: Керування користувачами
   add_to_google_calendar: "Додати до мого Google Календаря"
-  bigbluebutton: BigBlueButton
+  bigbluebutton: ORI-BBB
   bigbluebutton_exception: "Упс, сталася помилка при спробі запуску зустрічі!"
   cancel: Скасування
   cookies:
