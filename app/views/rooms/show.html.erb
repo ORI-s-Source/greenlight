@@ -82,17 +82,15 @@
       </div>
     </div>
 
-    <% if current_user.ordered_rooms.length > 5 %>
-      <div class="input-icon invite-link-input mb-3">
-        <span class="input-icon-addon">
-          <i class="fas fa-search"></i>
-          </span>
-        <input id="room-search" type="text" placeholder="<%= t("room.search") %>" class="form-control w-100" onChange="filterRooms()" onKeyUp="filterRooms()">
-        <span id="clear-room-search" class="text-primary" onclick="clearRoomSearch()">
-          <i class="fas fa-times"></i>
+    <div class="input-icon invite-link-input mb-3">
+      <span class="input-icon-addon">
+        <i class="fas fa-search"></i>
         </span>
-      </div>
-    <% end %>
+      <input id="room-search" type="text" placeholder="<%= t("room.search") %>" class="form-control w-100" onChange="filterRooms()" onKeyUp="filterRooms()">
+      <span id="clear-room-search" class="text-primary" onclick="clearRoomSearch()">
+        <i class="fas fa-times"></i>
+      </span>
+    </div>
 
     <div id="room_block_container" class="row mb-5">
       <% if current_user.role.get_permission("can_create_rooms") %>
